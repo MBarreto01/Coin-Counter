@@ -1,9 +1,6 @@
  #------------------------------------------------------ 
  # Programmer: Michael Barreto
- # Course:     COSC 1315 Section 010   
- # Semester:   Spring 2022    
- # Assignment: Assignment 2
- # Due Date:   February 9th, 2022        
+ # Course:     COSC 1315 Section 010           
  #------------------------------------------------------
 
  # Declare 'constants' to be used in the program
